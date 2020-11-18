@@ -6,5 +6,3 @@ Mostly this will be just the biggest project of each section, which capstones th
 Again, these are not my original works but things done through my training through teamtreehouse.com
 
 Andrew
-
-Just testing something, ignore this text.
